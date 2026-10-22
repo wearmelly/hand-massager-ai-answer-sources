@@ -1,0 +1,138 @@
+run_id,date,engine,query_id,angle,cited_count,inspected_count,sub_query_count,location,location_note,query_text
+R001,2026-10-16,perplexity,A1,arthritis,6,10,1,not recorded,not flagged,What is the best hand massager for arthritis in 2026? I live in the US.
+R002,2026-10-16,chatgpt,A1,arthritis,0,19,5,not recorded,not flagged,What is the best hand massager for arthritis in 2026? I live in the US.
+R003,2026-10-16,perplexity,A1,arthritis,2,10,3,not recorded,not flagged,What is the best hand massager for arthritis in 2026? I live in the US.
+R004,2026-10-16,perplexity,A1,arthritis,2,10,3,not recorded,not flagged,What is the best hand massager for arthritis in 2026? I live in the US.
+R005,2026-10-16,chatgpt,A1,arthritis,0,40,5,not recorded,not flagged,What is the best hand massager for arthritis in 2026? I live in the US.
+R006,2026-10-16,chatgpt,A1,arthritis,0,37,5,not recorded,not flagged,What is the best hand massager for arthritis in 2026? I live in the US.
+R007,2026-10-16,perplexity,A2,arthritis,7,10,1,not recorded,not flagged,Best heated hand massager with air compression for arthritic hands under $100
+R008,2026-10-16,chatgpt,A2,arthritis,0,20,4,not recorded,not flagged,Best heated hand massager with air compression for arthritic hands under $100
+R009,2026-10-16,chatgpt,A2,arthritis,0,15,4,not recorded,not flagged,Best heated hand massager with air compression for arthritic hands under $100
+R010,2026-10-16,perplexity,A2,arthritis,8,25,4,not recorded,not flagged,Best heated hand massager with air compression for arthritic hands under $100
+R011,2026-10-16,perplexity,A3,arthritis,8,23,4,not recorded,not flagged,My hands are stiff every morning from rheumatoid arthritis. Which heated hand massager should I buy? My budget is around $70.
+R012,2026-10-16,chatgpt,A3,arthritis,0,37,3,not recorded,not flagged,My hands are stiff every morning from rheumatoid arthritis. Which heated hand massager should I buy? My budget is around $70.
+R013,2026-10-16,chatgpt,A3,arthritis,0,14,4,not recorded,not flagged,My hands are stiff every morning from rheumatoid arthritis. Which heated hand massager should I buy? My budget is around $70.
+R014,2026-10-16,perplexity,A3,arthritis,7,10,1,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",My hands are stiff every morning from rheumatoid arthritis. Which heated hand massager should I buy? My budget is around $70.
+R015,2026-10-16,perplexity,A4,arthritis,4,10,1,not recorded,not flagged,"Are those heated hand massagers on Amazon worth it for arthritis, or are they a waste of money?"
+R016,2026-10-16,chatgpt,A4,arthritis,0,38,2,not recorded,not flagged,"Are those heated hand massagers on Amazon worth it for arthritis, or are they a waste of money?"
+R017,2026-10-16,perplexity,A4,arthritis,3,10,1,not recorded,not flagged,"Are those heated hand massagers on Amazon worth it for arthritis, or are they a waste of money?"
+R018,2026-10-16,chatgpt,A4,arthritis,0,16,1,not recorded,not flagged,"Are those heated hand massagers on Amazon worth it for arthritis, or are they a waste of money?"
+R019,2026-10-16,perplexity,A5,arthritis,4,10,1,not recorded,not flagged,Hand massager or paraffin wax bath for arthritis in my hands: which one should I buy?
+R020,2026-10-16,perplexity,A5,arthritis,6,10,1,not recorded,not flagged,Hand massager or paraffin wax bath for arthritis in my hands: which one should I buy?
+R021,2026-10-16,chatgpt,A5,arthritis,0,14,1,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Hand massager or paraffin wax bath for arthritis in my hands: which one should I buy?
+R022,2026-10-16,chatgpt,A5,arthritis,0,14,1,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Hand massager or paraffin wax bath for arthritis in my hands: which one should I buy?
+R023,2026-10-16,chatgpt,A6,arthritis,0,14,1,not recorded,not flagged,Should I buy compression gloves or a heated hand massager for osteoarthritis in my fingers?
+R024,2026-10-16,perplexity,A6,arthritis,7,10,1,not recorded,not flagged,Should I buy compression gloves or a heated hand massager for osteoarthritis in my fingers?
+R025,2026-10-16,perplexity,A6,arthritis,5,10,1,not recorded,not flagged,Should I buy compression gloves or a heated hand massager for osteoarthritis in my fingers?
+R026,2026-10-16,chatgpt,A6,arthritis,0,15,1,not recorded,not flagged,Should I buy compression gloves or a heated hand massager for osteoarthritis in my fingers?
+R027,2026-10-16,chatgpt,A7,arthritis,0,52,4,not recorded,not flagged,CINCOM vs Lunix vs Comfier hand massager for arthritis: which one is better?
+R028,2026-10-16,perplexity,A7,arthritis,6,10,1,not recorded,not flagged,CINCOM vs Lunix vs Comfier hand massager for arthritis: which one is better?
+R029,2026-10-16,perplexity,A7,arthritis,7,23,4,not recorded,not flagged,CINCOM vs Lunix vs Comfier hand massager for arthritis: which one is better?
+R030,2026-10-16,chatgpt,A8,arthritis,0,16,1,not recorded,not flagged,Where can I buy a good cordless heated hand massager for arthritis in the US with fast shipping and easy returns?
+R031,2026-10-16,perplexity,A8,arthritis,4,10,1,not recorded,not flagged,Where can I buy a good cordless heated hand massager for arthritis in the US with fast shipping and easy returns?
+R032,2026-10-16,perplexity,A8,arthritis,5,10,1,not recorded,not flagged,Where can I buy a good cordless heated hand massager for arthritis in the US with fast shipping and easy returns?
+R033,2026-10-16,chatgpt,A8,arthritis,0,15,1,not recorded,not flagged,Where can I buy a good cordless heated hand massager for arthritis in the US with fast shipping and easy returns?
+R034,2026-10-16,perplexity,A9,arthritis,5,10,1,not recorded,not flagged,I have stiff fingers and find strong squeezing uncomfortable. Which hand massagers for arthritis have gentle pressure settings and easy-to-use controls?
+R035,2026-10-16,chatgpt,A9,arthritis,0,15,1,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",I have stiff fingers and find strong squeezing uncomfortable. Which hand massagers for arthritis have gentle pressure settings and easy-to-use controls?
+R036,2026-10-16,chatgpt,A8,arthritis,0,15,1,not recorded,not flagged,Where can I buy a good cordless heated hand massager for arthritis in the US with fast shipping and easy returns?
+R037,2026-10-16,chatgpt,A9,arthritis,0,20,5,not recorded,not flagged,I have stiff fingers and find strong squeezing uncomfortable. Which hand massagers for arthritis have gentle pressure settings and easy-to-use controls?
+R038,2026-10-16,perplexity,A9,arthritis,2,10,1,not recorded,not flagged,I have stiff fingers and find strong squeezing uncomfortable. Which hand massagers for arthritis have gentle pressure settings and easy-to-use controls?
+R039,2026-10-16,chatgpt,K1,desk-carpal,0,16,5,not recorded,not flagged,What is the best hand and wrist massager for carpal tunnel in 2026? I'm in the US.
+R040,2026-10-16,perplexity,K1,desk-carpal,9,10,1,not recorded,not flagged,What is the best hand and wrist massager for carpal tunnel in 2026? I'm in the US.
+R041,2026-10-16,chatgpt,K1,desk-carpal,0,17,1,not recorded,not flagged,What is the best hand and wrist massager for carpal tunnel in 2026? I'm in the US.
+R042,2026-10-16,perplexity,K1,desk-carpal,9,24,4,not recorded,not flagged,What is the best hand and wrist massager for carpal tunnel in 2026? I'm in the US.
+R043,2026-10-16,chatgpt,K2,desk-carpal,0,12,1,not recorded,not flagged,Do electric hand massagers from Amazon actually help with carpal tunnel? I'm thinking about buying one.
+R044,2026-10-16,perplexity,K2,desk-carpal,13,25,3,not recorded,not flagged,Do electric hand massagers from Amazon actually help with carpal tunnel? I'm thinking about buying one.
+R045,2026-10-16,chatgpt,K2,desk-carpal,0,15,1,not recorded,not flagged,Do electric hand massagers from Amazon actually help with carpal tunnel? I'm thinking about buying one.
+R046,2026-10-16,perplexity,K2,desk-carpal,11,25,4,not recorded,not flagged,Do electric hand massagers from Amazon actually help with carpal tunnel? I'm thinking about buying one.
+R047,2026-10-16,chatgpt,K3,desk-carpal,0,27,1,not recorded,not flagged,My hands go numb at night from carpal tunnel. Is a heated hand massager worth buying? Budget under $80.
+R048,2026-10-16,perplexity,K3,desk-carpal,9,25,3,not recorded,not flagged,My hands go numb at night from carpal tunnel. Is a heated hand massager worth buying? Budget under $80.
+R049,2026-10-16,perplexity,K3,desk-carpal,7,10,1,not recorded,not flagged,My hands go numb at night from carpal tunnel. Is a heated hand massager worth buying? Budget under $80.
+R050,2026-10-16,chatgpt,K3,desk-carpal,0,14,1,not recorded,not flagged,My hands go numb at night from carpal tunnel. Is a heated hand massager worth buying? Budget under $80.
+R051,2026-10-16,perplexity,K4,desk-carpal,7,10,1,not recorded,not flagged,Best hand massager for wrist pain from typing all day at a desk job
+R052,2026-10-16,chatgpt,K4,desk-carpal,0,19,5,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Best hand massager for wrist pain from typing all day at a desk job
+R053,2026-10-16,perplexity,K4,desk-carpal,10,23,4,not recorded,not flagged,Best hand massager for wrist pain from typing all day at a desk job
+R054,2026-10-16,chatgpt,K4,desk-carpal,0,19,4,not recorded,not flagged,Best hand massager for wrist pain from typing all day at a desk job
+R055,2026-10-16,chatgpt,K5,desk-carpal,0,16,3,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Best hand massager for gamers with wrist and finger pain
+R056,2026-10-16,perplexity,K5,desk-carpal,3,10,3,not recorded,not flagged,Best hand massager for gamers with wrist and finger pain
+R057,2026-10-16,perplexity,K5,desk-carpal,9,10,1,not recorded,not flagged,Best hand massager for gamers with wrist and finger pain
+R058,2026-10-16,chatgpt,K5,desk-carpal,0,16,1,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Best hand massager for gamers with wrist and finger pain
+R059,2026-10-16,chatgpt,K6,desk-carpal,0,28,1,not recorded,not flagged,Wrist brace or hand massager for carpal tunnel: which should I buy first?
+R060,2026-10-16,perplexity,K6,desk-carpal,7,10,1,not recorded,not flagged,Wrist brace or hand massager for carpal tunnel: which should I buy first?
+R061,2026-10-16,chatgpt,K6,desk-carpal,0,14,1,not recorded,not flagged,Wrist brace or hand massager for carpal tunnel: which should I buy first?
+R062,2026-10-16,chatgpt,K7,desk-carpal,0,19,4,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable","I need a hand massager that also covers the wrist, not just the palm and fingers, for carpal tunnel. Any recommendations under $100?"
+R063,2026-10-16,perplexity,K7,desk-carpal,7,24,4,not recorded,not flagged,"I need a hand massager that also covers the wrist, not just the palm and fingers, for carpal tunnel. Any recommendations under $100?"
+R064,2026-10-16,chatgpt,K7,desk-carpal,0,15,4,not recorded,not flagged,"I need a hand massager that also covers the wrist, not just the palm and fingers, for carpal tunnel. Any recommendations under $100?"
+R065,2026-10-16,chatgpt,K8,desk-carpal,0,16,1,not recorded,not flagged,"Is the Lifepro Legra hand massager good for carpal tunnel, or are there better options?"
+R066,2026-10-16,chatgpt,K8,desk-carpal,0,15,1,not recorded,not flagged,"Is the Lifepro Legra hand massager good for carpal tunnel, or are there better options?"
+R067,2026-10-16,perplexity,K8,desk-carpal,14,26,3,not recorded,not flagged,"Is the Lifepro Legra hand massager good for carpal tunnel, or are there better options?"
+R068,2026-10-16,chatgpt,K9,desk-carpal,0,36,7,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable","I'm considering a hand massager for carpal tunnel, but I'm worried the compression will be too strong. Which models have adjustable pressure, and which sellers let me return one after trying it?"
+R069,2026-10-16,perplexity,K9,desk-carpal,8,10,1,not recorded,not flagged,"I'm considering a hand massager for carpal tunnel, but I'm worried the compression will be too strong. Which models have adjustable pressure, and which sellers let me return one after trying it?"
+R070,2026-10-16,chatgpt,K9,desk-carpal,0,50,4,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable","I'm considering a hand massager for carpal tunnel, but I'm worried the compression will be too strong. Which models have adjustable pressure, and which sellers let me return one after trying it?"
+R071,2026-10-16,chatgpt,O1,crochet-knitting,0,18,4,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Best hand massager for knitters and crocheters with sore hands
+R072,2026-10-16,perplexity,O1,crochet-knitting,2,10,3,not recorded,not flagged,Best hand massager for knitters and crocheters with sore hands
+R073,2026-10-16,chatgpt,O1,crochet-knitting,0,20,5,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Best hand massager for knitters and crocheters with sore hands
+R074,2026-10-16,chatgpt,O2,crochet-knitting,0,14,1,not recorded,not flagged,I have arthritis and I crochet every day. Is a heated hand massager worth around $70 for after my crochet sessions?
+R075,2026-10-16,perplexity,O2,crochet-knitting,9,10,1,not recorded,not flagged,I have arthritis and I crochet every day. Is a heated hand massager worth around $70 for after my crochet sessions?
+R076,2026-10-16,chatgpt,O2,crochet-knitting,0,25,1,not recorded,not flagged,I have arthritis and I crochet every day. Is a heated hand massager worth around $70 for after my crochet sessions?
+R077,2026-10-16,perplexity,O3,crochet-knitting,7,10,1,not recorded,not flagged,How do you relieve your hands from pain after knitting for a long time? Is there a gadget that actually helps?
+R078,2026-10-16,chatgpt,O3,crochet-knitting,0,34,3,not recorded,not flagged,How do you relieve your hands from pain after knitting for a long time? Is there a gadget that actually helps?
+R079,2026-10-16,chatgpt,O3,crochet-knitting,0,21,2,not recorded,not flagged,How do you relieve your hands from pain after knitting for a long time? Is there a gadget that actually helps?
+R080,2026-10-16,chatgpt,O4,crochet-knitting,0,14,3,not recorded,not flagged,Compression gloves or a heated hand massager for crochet hand pain: which should I buy?
+R081,2026-10-16,perplexity,O4,crochet-knitting,6,10,3,not recorded,not flagged,Compression gloves or a heated hand massager for crochet hand pain: which should I buy?
+R082,2026-10-16,chatgpt,O4,crochet-knitting,0,14,1,not recorded,not flagged,Compression gloves or a heated hand massager for crochet hand pain: which should I buy?
+R083,2026-10-16,chatgpt,O5,crochet-knitting,0,16,4,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Best cordless heated hand massager under $70 for hand cramps from crochet
+R084,2026-10-16,perplexity,O5,crochet-knitting,5,10,1,not recorded,not flagged,Best cordless heated hand massager under $70 for hand cramps from crochet
+R085,2026-10-16,chatgpt,O5,crochet-knitting,0,18,4,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Best cordless heated hand massager under $70 for hand cramps from crochet
+R086,2026-10-16,chatgpt,O6,crochet-knitting,0,44,3,not recorded,not flagged,Which hand massager do knitters and crocheters on Reddit recommend?
+R087,2026-10-16,perplexity,O6,crochet-knitting,4,10,3,not recorded,not flagged,Which hand massager do knitters and crocheters on Reddit recommend?
+R088,2026-10-16,chatgpt,O6,crochet-knitting,0,44,2,not recorded,not flagged,Which hand massager do knitters and crocheters on Reddit recommend?
+R089,2026-10-16,perplexity,K6,desk-carpal,7,10,1,not recorded,not flagged,Wrist brace or hand massager for carpal tunnel: which should I buy first?
+R090,2026-10-16,perplexity,K7,desk-carpal,8,24,4,not recorded,not flagged,"I need a hand massager that also covers the wrist, not just the palm and fingers, for carpal tunnel. Any recommendations under $100?"
+R091,2026-10-16,perplexity,K8,desk-carpal,10,26,3,not recorded,not flagged,"Is the Lifepro Legra hand massager good for carpal tunnel, or are there better options?"
+R092,2026-10-16,perplexity,K9,desk-carpal,14,25,4,not recorded,not flagged,"I'm considering a hand massager for carpal tunnel, but I'm worried the compression will be too strong. Which models have adjustable pressure, and which sellers let me return one after trying it?"
+R093,2026-10-16,perplexity,O1,crochet-knitting,9,23,4,not recorded,not flagged,Best hand massager for knitters and crocheters with sore hands
+R094,2026-10-16,perplexity,O2,crochet-knitting,7,10,1,not recorded,not flagged,I have arthritis and I crochet every day. Is a heated hand massager worth around $70 for after my crochet sessions?
+R095,2026-10-16,perplexity,O3,crochet-knitting,8,10,1,not recorded,not flagged,How do you relieve your hands from pain after knitting for a long time? Is there a gadget that actually helps?
+R096,2026-10-16,perplexity,O4,crochet-knitting,6,10,1,not recorded,not flagged,Compression gloves or a heated hand massager for crochet hand pain: which should I buy?
+R097,2026-10-16,perplexity,O5,crochet-knitting,2,10,3,not recorded,not flagged,Best cordless heated hand massager under $70 for hand cramps from crochet
+R098,2026-10-16,perplexity,O6,crochet-knitting,4,10,3,not recorded,not flagged,Which hand massager do knitters and crocheters on Reddit recommend?
+R099,2026-10-16,chatgpt,O7,crochet-knitting,0,20,5,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",I knit regularly and have small hands. Which heated hand massagers fit smaller hands and include the fingers and thumb?
+R100,2026-10-16,chatgpt,G1,general,0,13,5,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Best heated hand massager 2026
+R101,2026-10-16,chatgpt,G2,general,0,12,4,not recorded,not flagged,Best cordless hand massager with heat and compression under $100
+R102,2026-10-16,chatgpt,G3,general,0,23,1,not recorded,"Turkey traces in the answer text or sources (₺, Türkiye/Turkey, .com.tr or .tr domain); US-specific price and seller findings unreliable",Cheaper alternative to the CINCOM hand massager on Amazon
+R103,2026-10-16,chatgpt,G4,general,0,18,5,not recorded,not flagged,Best hand and wrist massager to buy in the US right now
+R104,2026-10-16,perplexity,O7,crochet-knitting,8,10,1,not recorded,not flagged,I knit regularly and have small hands. Which heated hand massagers fit smaller hands and include the fingers and thumb?
+R105,2026-10-16,perplexity,G1,general,2,11,3,not recorded,not flagged,Best heated hand massager 2026
+R106,2026-10-16,perplexity,G2,general,8,23,4,not recorded,not flagged,Best cordless hand massager with heat and compression under $100
+R107,2026-10-16,perplexity,G3,general,4,10,1,not recorded,not flagged,Cheaper alternative to the CINCOM hand massager on Amazon
+R108,2026-10-16,perplexity,G4,general,12,26,4,not recorded,not flagged,Best hand and wrist massager to buy in the US right now
+R109,2026-10-19,chatgpt,Q1,product-kb,3,22,2,not recorded,not flagged,"How long does the battery last on a cordless heated hand massager, and how long…"
+R110,2026-10-19,chatgpt,Q1,product-kb,2,14,1,not recorded,not flagged,"How long does the battery last on a cordless heated hand massager, and how long…"
+R111,2026-10-19,chatgpt,Q2,product-kb,2,25,2,not recorded,not flagged,Are heated hand massagers loud? I want to use one while watching TV or in bed. I…
+R112,2026-10-19,chatgpt,Q2,product-kb,3,22,2,not recorded,not flagged,Are heated hand massagers loud? I want to use one while watching TV or in bed. I…
+R113,2026-10-19,chatgpt,Q2,product-kb,2,21,2,not recorded,not flagged,Are heated hand massagers loud? I want to use one while watching TV or in bed. I…
+R114,2026-10-19,chatgpt,Q3,product-kb,4,21,2,not recorded,not flagged,Is a heated hand massager safe if I have diabetic neuropathy or numb fingers? I'…
+R115,2026-10-19,chatgpt,Q3,product-kb,3,20,2,not recorded,not flagged,Is a heated hand massager safe if I have diabetic neuropathy or numb fingers? I'…
+R116,2026-10-19,chatgpt,Q4,product-kb,2,25,2,not recorded,not flagged,Can I use a heated hand massager during a rheumatoid arthritis flare when my knu…
+R117,2026-10-19,chatgpt,Q4,product-kb,0,23,2,not recorded,not flagged,Can I use a heated hand massager during a rheumatoid arthritis flare when my knu…
+R118,2026-10-19,chatgpt,Q5,product-kb,2,18,1,not recorded,not flagged,Does a heated hand massager shut off automatically? I'm buying one for my elderl…
+R119,2026-10-19,chatgpt,Q5,product-kb,2,18,2,not recorded,not flagged,Does a heated hand massager shut off automatically? I'm buying one for my elderl…
+R120,2026-10-19,chatgpt,Q6,product-kb,5,12,1,not recorded,not flagged,Which heated hand massagers are simple to use with physical buttons instead of a…
+R121,2026-10-19,chatgpt,Q6,product-kb,5,47,1,not recorded,not flagged,Which heated hand massagers are simple to use with physical buttons instead of a…
+R122,2026-10-19,chatgpt,Q7,product-kb,4,24,2,not recorded,not flagged,"How strong is the air compression on a hand massager, and can I start on a very…"
+R123,2026-10-19,chatgpt,Q7,product-kb,3,26,2,not recorded,not flagged,"How strong is the air compression on a hand massager, and can I start on a very…"
+R124,2026-10-19,chatgpt,Q8,product-kb,2,13,1,not recorded,not flagged,"Do heated hand massagers squeeze the fingertips and thumb, or only the palm? I'm…"
+R125,2026-10-19,chatgpt,Q8,product-kb,0,12,1,not recorded,not flagged,"Do heated hand massagers squeeze the fingertips and thumb, or only the palm? I'm…"
+R126,2026-10-19,chatgpt,Q9,product-kb,2,12,1,not recorded,not flagged,Does a heated hand massager also massage and warm the wrist? I'm in the US.
+R127,2026-10-19,chatgpt,Q10,product-kb,2,24,2,not recorded,not flagged,Is a heated hand massager a good gift for someone who knits or crochets a lot? I…
+R128,2026-10-19,perplexity,Q1,product-kb,5,10,0,not recorded,not flagged,"How long does the battery last on a cordless heated hand massager, and how long…"
+R129,2026-10-19,perplexity,Q1,product-kb,8,10,0,not recorded,not flagged,"How long does the battery last on a cordless heated hand massager, and how long…"
+R130,2026-10-19,perplexity,Q2,product-kb,6,10,0,not recorded,not flagged,Are heated hand massagers loud? I want to use one while watching TV or in bed. I…
+R131,2026-10-19,perplexity,Q2,product-kb,6,10,0,not recorded,not flagged,Are heated hand massagers loud? I want to use one while watching TV or in bed. I…
+R132,2026-10-19,perplexity,Q3,product-kb,8,10,0,not recorded,not flagged,Is a heated hand massager safe if I have diabetic neuropathy or numb fingers? I'…
+R133,2026-10-19,perplexity,Q3,product-kb,6,10,0,not recorded,not flagged,Is a heated hand massager safe if I have diabetic neuropathy or numb fingers? I'…
+R134,2026-10-19,perplexity,Q4,product-kb,5,10,0,not recorded,not flagged,Can I use a heated hand massager during a rheumatoid arthritis flare when my knu…
+R135,2026-10-19,perplexity,Q4,product-kb,4,10,0,not recorded,not flagged,Can I use a heated hand massager during a rheumatoid arthritis flare when my knu…
+R136,2026-10-19,perplexity,Q5,product-kb,7,10,0,not recorded,not flagged,Does a heated hand massager shut off automatically? I'm buying one for my elderl…
+R137,2026-10-19,perplexity,Q5,product-kb,6,10,0,not recorded,not flagged,Does a heated hand massager shut off automatically? I'm buying one for my elderl…
