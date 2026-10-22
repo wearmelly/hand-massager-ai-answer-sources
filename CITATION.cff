@@ -10,7 +10,7 @@ version: 1.0.0
 date-released: 2026-10-19
 license: CC-BY-4.0
 url: "https://wearmelly.com"
-abstract: "Which web sources two AI assistants (ChatGPT and Perplexity) cited or inspected when answering 39 shopping questions about hand massagers, recorded over 137 runs on 2026-10-16 and 2026-10-19: 2900 source rows (472 cited, 2428 inspected) across 456 domains, plus 296 search sub-queries the assistants issued. Descriptive counts only: AI answers vary run to run. The answers themselves are not included. This dataset makes no medical claims. Compiled by Wearmelly (wearmelly.com), which sells Melly, a heated hand massager not included in this dataset."
+abstract: "Which web sources two AI assistants (ChatGPT and Perplexity) cited or inspected when answering 39 shopping questions about hand massagers, recorded over 137 runs on 2026-10-16 and 2026-10-19: 2900 source rows (472 cited, 2428 inspected) across 456 domains, plus 296 search sub-queries the assistants issued. Descriptive counts only: AI answers vary run to run. The answers themselves are not included. This dataset makes no medical claims. Compiled by Wearmelly. We sell Melly, a heated hand massager (wearmelly.com); Melly is not included in this dataset."
 keywords:
   - AI search
   - ChatGPT
