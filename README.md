@@ -22,7 +22,7 @@ configs:
 
 # AI shopping-answer sources for hand massager questions (ChatGPT and Perplexity, Oct 2026)
 
-Compiled by Wearmelly (wearmelly.com), which sells Melly, a heated hand massager not included in this dataset.
+Compiled by Wearmelly. We sell Melly, a heated hand massager (wearmelly.com); Melly is not included in this dataset.
 
 ## What this is
 
